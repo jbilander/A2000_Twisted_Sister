@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name A2000_Twisted_Sister)(type Legacy)(uri ${KIPRJMOD}/A2000_Twisted_Sister.lib)(options "")(descr ""))
+)
