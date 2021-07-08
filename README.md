@@ -1,2 +1,36 @@
-# A2000_Twisted_Sister
-Twisted Sister, An A2000 Co-processor slot adapter. Lets you plug a regular A500 sidecar accelerator into an A2000
+# A2000 Twisted Sister
+
+A2000 Co-processor slot adapter. Lets you plug a regular A500 sidecar accelerator into an A2000
+
+***
+
+Please double check that your E-CLK is not generated from two places, co-pro slot and CPU slot, as that most likely will damage your card and/or CPU. Accelerators like the ACA500+ normally has a jumper for this setting: <br /> 
+http://eab.abime.net/showpost.php?p=1195977&postcount=569
+
+***
+
+<a href="images/A2000_Twisted_Sister_pic1.png">
+<img src="images/A2000_Twisted_Sister_pic1.png" width="580" height="210">
+</a>
+<br />
+<a href="images/A2000_Twisted_Sister_pic2.png">
+<img src="images/A2000_Twisted_Sister_pic2.png" width="580" height="210">
+</a>
+
+***
+
+<a href="images/A2000_Twisted_Sister_pic3.jpg">
+<img src="images/A2000_Twisted_Sister_pic3.jpg" width="512" height="384">
+</a>
+<br />
+
+***
+
+## Manually chamfering edges 45°
+
+<a href="images/A2000_Twisted_Sister_pic4.jpg">
+<img src="images/A2000_Twisted_Sister_pic4.jpg" width="192" height="256">
+</a>
+<a href="images/A2000_Twisted_Sister_pic5.jpg">
+<img src="images/A2000_Twisted_Sister_pic5.jpg" width="256" height="192">
+</a>
