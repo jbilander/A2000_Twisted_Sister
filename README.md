@@ -2,6 +2,11 @@
 
 A2000 Co-processor slot adapter. Lets you plug a regular A500 sidecar accelerator into an A2000
 
+### Still UNTESTED in A2000 !!!
+
+Please report back to me if you successfully used this adapter in a A2000. I have a few spare PCBs available.
+ email: jorgen.bilander at gmail.com
+
 ***
 
 Please double check that your E-CLK is not generated from two places, co-pro slot and CPU slot, as that most likely will damage your card and/or CPU. Accelerators like the ACA500+ normally has a jumper for this setting: <br /> 
