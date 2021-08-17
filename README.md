@@ -6,6 +6,8 @@ A2000 Co-processor slot adapter. Lets you plug a regular A500 sidecar accelerato
 
 Please report back to me if you successfully used this adapter in a A2000. I have a few spare PCBs available.
  email: jorgen.bilander at gmail.com
+ 
+Verified working ok with an Amiga Action Replay cartridge in A2000 (tested by LIV2)
 
 ***
 
